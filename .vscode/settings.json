@@ -1,0 +1,14 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.extensionsPath": [
+        ""
+    ],
+    "prettier.singleQuote": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true
+}
